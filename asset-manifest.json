@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-draft-wysiwyg-1/static/css/main.a098d231.chunk.css",
+    "main.js": "/react-draft-wysiwyg-1/static/js/main.34e64e63.chunk.js",
+    "main.js.map": "/react-draft-wysiwyg-1/static/js/main.34e64e63.chunk.js.map",
+    "runtime-main.js": "/react-draft-wysiwyg-1/static/js/runtime-main.15e167fd.js",
+    "runtime-main.js.map": "/react-draft-wysiwyg-1/static/js/runtime-main.15e167fd.js.map",
+    "static/css/2.fe359a49.chunk.css": "/react-draft-wysiwyg-1/static/css/2.fe359a49.chunk.css",
+    "static/js/2.aabeb5eb.chunk.js": "/react-draft-wysiwyg-1/static/js/2.aabeb5eb.chunk.js",
+    "static/js/2.aabeb5eb.chunk.js.map": "/react-draft-wysiwyg-1/static/js/2.aabeb5eb.chunk.js.map",
+    "index.html": "/react-draft-wysiwyg-1/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/react-draft-wysiwyg-1/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.a098d231.chunk.css.map": "/react-draft-wysiwyg-1/static/css/main.a098d231.chunk.css.map",
+    "static/js/2.aabeb5eb.chunk.js.LICENSE.txt": "/react-draft-wysiwyg-1/static/js/2.aabeb5eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e167fd.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.aabeb5eb.chunk.js",
+    "static/css/main.a098d231.chunk.css",
+    "static/js/main.34e64e63.chunk.js"
+  ]
+}
